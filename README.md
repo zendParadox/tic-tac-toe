@@ -90,4 +90,9 @@ Proyek ini dilisensikan di bawah MIT License.
 </br>
 
 ## Demo Aplikasi
-[https://66462d2ca4f58309c1165160--warm-cupcake-7b05f6.netlify.app/](https://66462d2ca4f58309c1165160--warm-cupcake-7b05f6.netlify.app/)
+![Alt text](src/image/ss1.png)
+
+<br/>
+
+![Alt text](src/image/ss2.png)
+
